@@ -38,12 +38,18 @@ A powerful extension for [oobabooga's text-generation-webui](https://github.com/
 3. Download the extension file:
    ```bash
    cd prompts
-   wget https://raw.githubusercontent.com/[your-username]/prompts-extension/main/script.py
+   wget https://raw.githubusercontent.com/hashms0a/prompts-extension/main/script.py
+   ```
+   Or
+   Clone this GitHub repository into the extension folder.
+   ```bash
+   git clone https://github.com/hashms0a/prompts.git
    ```
 
-4. Launch text-generation-webui with the extension:
+5. Launch text-generation-webui with the extension:
+   Edit the CMD_FLAGS.txt file in the user_data directory.
    ```bash
-   python server.py --extensions prompts
+   --extensions prompts
    ```
 
 ## 🚀 Usage
