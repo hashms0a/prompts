@@ -2,6 +2,8 @@
 
 A powerful extension for [oobabooga's text-generation-webui](https://github.com/oobabooga/text-generation-webui) that enables users to create, manage, and quickly access custom prompts through an intuitive interface and slash commands.
 
+![Image1](https://github.com/hashms0a/prompts/blob/main/prompt-ui.png)
+![Image2](https://github.com/hashms0a/prompts/blob/main/prompt-ui-2.png)
 
 ## 🌟 Features
 
