@@ -47,6 +47,7 @@ A powerful extension for [oobabooga's text-generation-webui](https://github.com/
    ```
 
 5. Launch text-generation-webui with the extension:
+
    Edit the CMD_FLAGS.txt file in the user_data directory.
    ```bash
    --extensions prompts
