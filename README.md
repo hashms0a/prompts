@@ -125,10 +125,3 @@ def custom_css():
     /* Your custom styles here */
     """
 ```
-
-### Extending Functionality
-
-You can extend the extension by modifying these key functions:
-- `create_prompt()`: Add validation or preprocessing
-- `chat_input_modifier()`: Customize how prompts are processed
-- `custom_js()`: Enhance the autocomplete behavior
